@@ -38,7 +38,7 @@ Kenya Pipeline Company (KPC)
 
 ## 📂 Projects
 
-**CITIMARK (Campus Lost & Found App)**  
+**CITIMARK (Car Hire Web Application)**  
 - Django + Firebase-based platform   
 - Image upload, category filtering, and dashboard view
 
