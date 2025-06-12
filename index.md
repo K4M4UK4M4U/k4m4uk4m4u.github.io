@@ -4,17 +4,17 @@ title: "Welcome"
 author_profile: true
 ---
 
-Hi! I’m [LEWIS KAMAU NDERU], and this is my personal portfolio powered by Jekyll and Minimal Mistakes.
+- [You can get my CV here](/assets/CV/Lewis Kamau Curriculum Vitae June 2025.pdf)  
 
 ## 👨‍🎓 Education
 
 **Bachelor of Science in Information Security and Forensics**  
 KCA University, Nairobi  
-**First Class Honours**
+**Award:** First Class Honours
 
 **Diploma in Business Information Technology**  
 KCA University, Nairobi  
-**Credit (3.54/4) GPA**
+**Award:** Credit (3.54/4) GPA
 
 ---
 
