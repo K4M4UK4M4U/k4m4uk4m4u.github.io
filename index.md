@@ -50,6 +50,6 @@ Kenya Pipeline Company (KPC)
 
 ## 📫 Contact
 
-- Email: kamau2325@yahoo.com  
-- GitHub: https://github.com/k4m4uk4m4u
-- LinkedIn: Temporary Restricted
+- [Email](kamau2325@yahoo.com)     
+- [GitHub](https://github.com/k4m4uk4m4u)   
+- [LinkedIn](Temporary Restricted)
