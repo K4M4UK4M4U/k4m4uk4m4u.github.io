@@ -9,7 +9,7 @@ Hi! I’m [LEWIS KAMAU NDERU], and this is my personal portfolio powered by Jeky
 ## 👨‍🎓 Education
 
 **Bachelor of Science in Information Security and Forensics**  
-KCA University, Nairobi
+KCA University, Nairobi  
 **First Class Honours**
 
 **Diploma in Business Information Technology**  
