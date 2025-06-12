@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome"
+title: "You have Landed on Kamau's portfolio! He is open to work"
 author_profile: true
 ---
 
