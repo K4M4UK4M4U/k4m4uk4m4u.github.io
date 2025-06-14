@@ -11,10 +11,14 @@ author_profile: true
 **Bachelor of Science in Information Security and Forensics**  
 KCA University, Nairobi  
 **Award:** First Class Honours
+[Degree Certificate](assets/Acdemic_Certs/Lewis Kamau Degree Certificate.pdf)
+[Transcripts](assets/Acdemic_Certs/Lewis Kamau Degree Exam Audit.pdf)
 
 **Diploma in Business Information Technology**  
 KCA University, Nairobi  
 **Award:** Credit (3.54/4) GPA
+[Certificate](assets/Acdemic_Certs/Lewis Kamau Diploma Certficate.pdf)
+[Transcripts](assets/Acdemic_Certs/Lewis Kamau Diploma Transcripts.pdf)
 
 ---
 
